@@ -1,0 +1,89 @@
+{
+    "personalInfo": {
+        "name": "Purajit Mondal",
+        "profession": "Full Stack Web Developer",
+        "course": "BCA Student",
+        "city": "Contai",
+        "country": "India",
+        "about": "Passionate web developer and BCA student interested in modern web technologies, programming, and software development.",
+        "profileImage": "image/Passport photo - Copy.jpg"
+    },
+
+    "contact": {
+        "email": "purajitmondal@gmail.com",
+        "phone": "8373002916",
+        // "website": "https://yourportfolio.com",
+        // "github": "https://github.com/yourgithub",
+        // "linkedin": "https://linkedin.com/in/yourlinkedin"
+    },
+
+    "skills": {
+        "frontend": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+        ],
+
+        "backend": "PHP"
+        ,
+
+        "database": "MySQL",
+
+        "tools": [
+            "GitHub",
+            "VS Code"
+        ]
+    },
+
+    "education": [
+        {
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "college": "CCLMS",
+            "year": "2024 - 2027",
+            "sgpa": "8.1"
+        },
+
+        {
+            "degree": "Higher Secondary",
+            "school": "Champatala High School",
+            "year": "2022 - 2024",
+            "percentage": "78%"
+        }
+    ],
+
+    "projects": [
+        {
+            "title": "Portfolio Website",
+            "description": "Responsive personal portfolio website using HTML, CSS, JavaScript.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            // "githubLink": "https://github.com/yourgithub/portfolio",
+            // "liveLink": "https://yourportfolio.com",
+            // "image": "image/portfolio-project.png"
+        },
+    ],
+
+    "socialMedia": {
+        "facebook": "https://facebook.com/yourprofile",
+        "instagram": "https://instagram.com/yourprofile",
+        "twitter": "https://twitter.com/yourprofile",
+        "youtube": "https://youtube.com/yourchannel"
+    },
+
+    "hobbies": [
+        "Coding",
+        "Learning New Technologies",
+        "Share Market",
+        "Gaming"
+    ],
+
+    "languages": [
+        "English",
+        "Bengali",
+        "Hindi"
+    ]
+}
