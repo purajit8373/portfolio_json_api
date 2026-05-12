@@ -11,10 +11,7 @@
 
     "contact": {
         "email": "purajitmondal@gmail.com",
-        "phone": "8373002916",
-        // "website": "https://yourportfolio.com",
-        // "github": "https://github.com/yourgithub",
-        // "linkedin": "https://linkedin.com/in/yourlinkedin"
+        "phone": "8373002916"
     },
 
     "skills": {
@@ -22,11 +19,10 @@
             "HTML",
             "CSS",
             "JavaScript",
-            "Bootstrap",
+            "Bootstrap"
         ],
 
-        "backend": "PHP"
-        ,
+        "backend": "PHP",
 
         "database": "MySQL",
 
@@ -60,19 +56,9 @@
                 "HTML",
                 "CSS",
                 "JavaScript"
-            ],
-            // "githubLink": "https://github.com/yourgithub/portfolio",
-            // "liveLink": "https://yourportfolio.com",
-            // "image": "image/portfolio-project.png"
-        },
+            ]
+        }
     ],
-
-    "socialMedia": {
-        "facebook": "https://facebook.com/yourprofile",
-        "instagram": "https://instagram.com/yourprofile",
-        "twitter": "https://twitter.com/yourprofile",
-        "youtube": "https://youtube.com/yourchannel"
-    },
 
     "hobbies": [
         "Coding",
